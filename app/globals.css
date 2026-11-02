@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .text-outline-number {
+    font-family: var(--font-playfair), 'Playfair Display', Georgia, serif;
+    font-size: 8rem;
+    line-height: 0.8;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.45);
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.12);
+    user-select: none;
+    pointer-events: none;
+  }
+  .glass-pill {
+    background: rgba(255, 255, 255, 0.88);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+  .glass-pill-dark {
+    background: rgba(18, 18, 18, 0.85);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+  }
+  .badge-subtle {
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .font-serif-italic {
+    font-family: var(--font-playfair), 'Playfair Display', Georgia, serif;
+    font-style: italic;
+  }
+  /* Hide scrollbar for category scroll on mobile */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

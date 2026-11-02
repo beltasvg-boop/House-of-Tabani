@@ -1,0 +1,271 @@
+---
+name: Editorial Pret Commerce
+colors:
+  surface: '#faf9f5'
+  surface-dim: '#dbdad6'
+  surface-bright: '#faf9f5'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f5f4f0'
+  surface-container: '#efeeea'
+  surface-container-high: '#e9e8e4'
+  surface-container-highest: '#e3e2df'
+  on-surface: '#1b1c1a'
+  on-surface-variant: '#4c4546'
+  inverse-surface: '#30312e'
+  inverse-on-surface: '#f2f1ed'
+  outline: '#7e7576'
+  outline-variant: '#cfc4c5'
+  surface-tint: '#5e5e5e'
+  primary: '#000000'
+  on-primary: '#ffffff'
+  primary-container: '#1b1b1b'
+  on-primary-container: '#848484'
+  inverse-primary: '#c6c6c6'
+  secondary: '#5f5e5e'
+  on-secondary: '#ffffff'
+  secondary-container: '#e2dfde'
+  on-secondary-container: '#636262'
+  tertiary: '#000000'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#1b1c1c'
+  on-tertiary-container: '#848484'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#e2e2e2'
+  primary-fixed-dim: '#c6c6c6'
+  on-primary-fixed: '#1b1b1b'
+  on-primary-fixed-variant: '#474747'
+  secondary-fixed: '#e5e2e1'
+  secondary-fixed-dim: '#c8c6c5'
+  on-secondary-fixed: '#1b1c1c'
+  on-secondary-fixed-variant: '#474746'
+  tertiary-fixed: '#e3e2e2'
+  tertiary-fixed-dim: '#c7c6c6'
+  on-tertiary-fixed: '#1b1c1c'
+  on-tertiary-fixed-variant: '#464747'
+  background: '#faf9f5'
+  on-background: '#1b1c1a'
+  surface-variant: '#e3e2df'
+  pure-white: '#FFFFFF'
+  charcoal: '#222222'
+  muted-gray: '#767676'
+  light-gray: '#F3F3F3'
+  stone-ecru: '#EDEBE7'
+  badge-scarcity-bg: rgba(0, 0, 0, 0.65)
+  badge-scarcity-text: '#FFFFFF'
+  badge-neutral-bg: '#F3F3F3'
+  badge-neutral-text: '#222222'
+  footer-bg: '#000000'
+  footer-text: '#FFFFFF'
+  footer-muted: '#9E9E9E'
+  surface-border: '#E5E5E5'
+typography:
+  display-hero:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 56px
+    fontWeight: '700'
+    lineHeight: 64px
+    letterSpacing: -0.03em
+  display-hero-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 34px
+    fontWeight: '700'
+    lineHeight: 40px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 26px
+    fontWeight: '700'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 24px
+    fontWeight: '600'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-editorial-serif:
+    fontFamily: Newsreader
+    fontSize: 32px
+    fontWeight: '400'
+    lineHeight: 40px
+    letterSpacing: 0em
+  headline-editorial-serif-mobile:
+    fontFamily: Newsreader
+    fontSize: 24px
+    fontWeight: '400'
+    lineHeight: 32px
+    letterSpacing: 0em
+  subheading:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 22px
+    letterSpacing: 0.01em
+  body-default:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+    letterSpacing: 0.01em
+  eyebrow-caps:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 11px
+    fontWeight: '700'
+    lineHeight: 14px
+    letterSpacing: 0.14em
+  badge-label:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 9px
+    fontWeight: '700'
+    lineHeight: 12px
+    letterSpacing: 0.08em
+  price-primary:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '700'
+    lineHeight: 18px
+    letterSpacing: 0.01em
+  tab-label:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 12px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.08em
+rounded:
+  sm: 0.125rem
+  DEFAULT: 0.25rem
+  md: 0.375rem
+  lg: 0.5rem
+  xl: 0.75rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-desktop: 1.5rem
+  margin: 1rem
+  margin-tablet: 2rem
+  margin-desktop: 3.5rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+  space-2xl: 4rem
+  space-3xl: 6rem
+---
+
+## Brand & Style
+
+This design system establishes an editorial-first retail identity for high-velocity Pakistani fashion e-commerce. It bridges regional South Asian sartorial heritage—spanning ready-to-wear pret, unstitched multi-piece textiles, and formal eastern silhouettes—with the restraint and typographic authority of contemporary luxury fashion publications.
+
+The aesthetic fuses **Editorial Minimalism** with high-conversion e-commerce functionalism:
+- **Purity and Contrast:** Canvas elements defer completely to campaign photography. Bold stark black `#000000` grounds structural navigation, CTAs, and authoritative footers, balanced against warm stone and ecru micro-surfaces that soften raw digital white.
+- **Editorial Polish:** High-fashion storytelling phrases interlock crisp geometric sans-serif clarity with italicized, literary serif accents (e.g. *Style that moves with you*), elevating commercial mass-retail into an aspirational cultural experience.
+- **Commercial Precision:** Scarcity chips (`BEST SELLER`, `LIMITED`, `SELLING FAST`, `LOW STOCK`) and local currency pricing (`Rs.`) are treated with mathematical discipline—micro-scale, high-contrast, and strictly non-intrusive.
+- **Audience & Emotion:** Targeted at trend-discerning Pakistani and global diaspora consumers seeking accessible luxury, reliable execution, and everyday elegance. The UI communicates credibility, effortless refinement, and instant tactile clarity.
+
+## Colors
+
+The palette is rooted in high-contrast editorial monochrome, using warmth in secondary neutrals to complement South Asian skin tones and rich textile dyes without color contamination.
+
+### Application Rules
+- **Primary (`#000000`):** Reserved for primary CTA buttons, site header brand mark, critical headings, and the structured black enterprise footer.
+- **Secondary (`#222222`):** Primary text color for body copy, category links, product titles, and active tab indicators.
+- **Tertiary (`#767676`):** Supporting metadata, overline eyebrows, inactive navigation links, review counts, and service icons.
+- **Neutral (`#F7F6F2` & `#EDEBE7`):** Warm ecru and stone backdrops for social proof callout blocks, campaign banner panels, metric grids, and secondary card chip states.
+- **Card Badges:** 
+  - *High-urgency/Stock cues (`BEST SELLER`, `LIMITED`, `LOW STOCK`):* Translucent stark charcoal overlay `rgba(0, 0, 0, 0.65)` with `#FFFFFF` text anchored directly within top card bounds.
+  - *Product Attribute cues (`MODERN FIT`, `SEASONAL WEAVES`):* Subtle `#F3F3F3` backdrop with `#222222` lettering.
+
+## Typography
+
+The typographic architecture establishes an elevated balance between structural utility and high-fashion editorial sensitivity.
+
+### Pairing Strategy
+- **Workhorse Engine:** `Plus Jakarta Sans` delivers crisp legibility across high-density merchandising grids, mega-menus, pricing matrices, and technical sizing guides.
+- **Editorial Flourish:** `Newsreader` (italic or normal weights) is integrated as a secondary display accent for storytelling statements, campaign catchphrases (e.g., *“Style that moves with you”*), and curated capsule intros.
+
+### Hierarchy & Style Details
+- **Eyebrow & Badges:** Rendered in strict uppercase tracking (`0.08em` to `0.14em`) with bold weights to maintain sharp clarity even at compact sizes (`9px` to `11px`).
+- **Product Titles:** Set at `14px` or `12px` in clean regular-to-medium sans, letting the photography lead without cognitive visual clutter.
+- **Pricing:** Rendered in bold monospace-like clarity `Rs. 2,190` with strict currency baseline alignment.
+
+## Layout & Spacing
+
+A fluid 12-column layout system designed to accommodate high-density fashion catalogs while maintaining editorial negative space.
+
+### Grid & Breakpoints
+- **Mobile (< 768px):** 4 columns, `margin: 1rem`, `gutter: 0.75rem`. Product cards render in 2-column or horizontal scroll strips.
+- **Tablet (768px - 1024px):** 8 columns, `margin: 2rem`, `gutter: 1rem`. Product listings render in 3-column rows.
+- **Desktop (1024px+):** 12 columns, `margin: 3.5rem`, `gutter: 1.5rem`, maximum container constraint of `1440px`. Product grids render in clean 4-column configurations alongside curated 3-up product blocks with discovery anchor panels.
+
+### Layout Modules
+- **Hero & Campaign Strips:** Full viewport-width bleed with inner safe-zone typography aligned to the grid edge.
+- **Top 10 Strip:** Horizontal overflow scroll on mobile with sequential index numerics (`1` through `10`) underlaid beneath cards; fluid grid row on desktop.
+- **Trust & Metric Grid:** 3-column data callout strip enclosed with generous vertical breathing room (`space-2xl` top/bottom).
+
+## Elevation & Depth
+
+The design system is predominantly **flat and architectural**, relying on tonal surface changes and structural grid lines rather than heavy drop shadows.
+
+- **Surface Layers:**
+  - Base canvas: `#FFFFFF`.
+  - Secondary editorial containers: `#F7F6F2` and `#EDEBE7`.
+  - Floating UI & Modals: Crisp `#FFFFFF` with ultra-diffuse ambient elevation (`0 8px 30px rgba(0, 0, 0, 0.08)`).
+- **Overlays & Badges:** Product badges and image hover buttons utilize semi-translucent backdrop blurs (`backdrop-filter: blur(8px)`) with subdued opacity (`rgba(0, 0, 0, 0.65)` or `rgba(255, 255, 255, 0.9)`), anchoring elements directly inside photography without visual heaviness.
+- **Borders & Dividers:** Extremely fine, low-contrast separator lines (`#E5E5E5`, 1px solid) to structure sub-navigation bars, drawers, and metric dividers without breaking visual continuity.
+
+## Shapes
+
+The design system uses a **Soft (Level 1)** geometric shape language. Sharp right angles and soft micro-radii blend modern editorial discipline with functional touch affordances:
+
+- **Cards & Media:** Strict rectangular forms (`0px` border-radius) for product images, campaign banners, and full-width containers to maintain high-fashion editorial purity.
+- **Interactive Badges & CTAs:** Micro-rounded corners (`2px` to `4px`) for primary buttons and text badges, ensuring they feel crisp and architectural rather than toy-like.
+- **Category Filter Tabs & Pills:** Subtle rounded-sm (`4px`) or pill contours (`999px`) reserved strictly for sub-navigation chips (`READY TO WEAR`, `UNSTITCHED`, `WEST`) and round numeric indicator badges.
+
+## Components
+
+### 1. Product Cards
+- **Aspect Ratio:** Portrait `3:4` or `2:3` high vertical image aspect ratios. Borderless perimeter.
+- **Image Treatment:** Clean photography with full coverage. Subtle smooth zoom on desktop cursor hover (`scale(1.02)`).
+- **Merchandising Badges:** Fixed at top-left/top-right of image. Compact pill or rectangle format, uppercase, `badge-label` token. Dark translucent fill (`rgba(0, 0, 0, 0.65)`) with white text for scarcity states (`LIMITED`, `BEST SELLER`, `SELLING FAST`). Light neutral (`#F3F3F3`) for fit states (`MODERN FIT`).
+- **Product Details:** Placed directly below the image with zero enclosing borders.
+  - Line 1: Collection / Silhouette Name (`subheading`, `#222222`, single-line clamp).
+  - Line 2: Pricing in PKR (`price-primary`, `Rs. 2,490`).
+  - Line 3 (Optional): Small rating stars string (`★★★★★ 4.8`) and discrete color swatch circles (`12px` diameter with 1px border).
+
+### 2. Category Sub-Navigation Tabs
+- Centered inline links or subtle pills beneath collection titles (e.g. `READY TO WEAR | UNSTITCHED | WEST | DRESSES`).
+- Active state indicated by solid black underline (`2px`) or solid `#000000` pill with white text; inactive state in muted charcoal (`#767676`).
+
+### 3. Campaign & Feature Banners
+- Full-width or asymmetric 2-column editorial layouts pairing campaign portraiture with an off-center headline stack.
+- Includes category eyebrows in all-caps, an editorial serif statement line, supporting body copy, and a rectangular stark black button (`Shop Now →`).
+
+### 4. Buttons & CTAs
+- **Primary CTA:** Solid `#000000` fill, `#FFFFFF` text, `2px` micro-radius, uppercase tracked typography (`eyebrow-caps`), height `44px` or `48px`. Hover shifts to deep charcoal `#222222`.
+- **Secondary CTA:** Pure white background, `1px solid #000000`, black text.
+- **Deep-Link Discovery Tile:** The final slot in 4-column product rows (e.g. `Discover 1140 More ↗ Explore`) featuring blurred contextual photography beneath an ecru frosted center pill button.
+
+### 5. Social Proof & Metric Strip
+- Warm ecru background (`#F7F6F2`).
+- 3-column metric layout showcasing bold numbers (`3.2M+`, `94%`, `200+`) paired with light secondary text.
+- Horizontal sub-strip with inline trust markers: `Easy 30-day exchange`, `Secure checkout`, `Ships across Pakistan`, `Cash on delivery available`.
+
+### 6. Dense Enterprise Footer
+- Full-width stark black (`#000000`) background with pure white typography.
+- Structured hierarchy: Purpose manifesto block, dynamic multi-column link lists (`HELP`, `ABOUT`, `PAYMENT METHOD`), localized customer service operational hours, accepted payment icons (Visa, Mastercard, PayFast), and copyright notice.

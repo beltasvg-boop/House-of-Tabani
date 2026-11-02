@@ -1,0 +1,442 @@
+{
+  "products": [
+    {
+      "id": "top10-1",
+      "name": "Essential Pret Kurta Trouser Set",
+      "category": "everyday-essentials",
+      "categories": ["everyday-essentials", "top-10"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Kurta Trouser",
+      "price": 4290,
+      "originalPrice": 4990,
+      "badge": "Best Seller",
+      "featuredTop10Rank": 1,
+      "top10Subtitle": "Kurta Trouser",
+      "top10Title": "Essential Pret",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuD0ntGq5rh60Dq6IUoJ_G-8rxPvuEYelHKryX78qzDvr6Ujqg8F60Qx-rS4sWeeLCi5xTh9dsuXTwHB8M_4_hKzVCR5p2CoULUPGwRua-BbMBujJ14bN6UNhUE0tuVw3ZMUojTfSQdTlxP-HonnVzfPhyIMRS4iv4GKWNPo6HMssHNVCnBP3eUA4DKD318J9EjKk1oJWDiU3-fXBEhva9_ggswljufxB7ZrpB2ioN2UkLiDB-dVfwhyQCZMZQsj4gPgAQ",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAmaKDQnI5w6lNM4ZPD4bifm_7jOdrbq1Vau9Ikl1rYV2mG9YXOpJhAwYNVRMZoS7Nv0i2UOHCLb-qSRbXoNcgEKS4SI3GTeZK7jbumHJLtA-G1ormhV16B00QIsm7qlXBTSg1Z3rx2ej_npNxcYX-D_sq1UUTzkBU3XHZ3J7nfO4Ts-5w5CU7MTFmM-yB5-iTE6FDmNl48mHuqgE9bHTmXpuhM5AI-kLkIf6d-0LJy9WX5QUEcWC8FC133iXXoqNM_rA"
+      ],
+      "description": "Crafted from premium textured cotton-blend weave with tailored belt accents, modern lapel collar, and matching structured trousers. Designed for all-day comfort and effortless poise.",
+      "fabricDetails": "100% Breathable Fine Textured Cotton. Soft hand-feel with light crease-resistant finish.",
+      "careGuide": "Machine wash cold on gentle cycle. Warm iron inside out. Do not tumble dry.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": false }
+      ],
+      "rating": 4.9,
+      "reviewCount": 142,
+      "inStock": true
+    },
+    {
+      "id": "top10-2",
+      "name": "3 Piece Essential Pret Peplum Edit",
+      "category": "everyday-essentials",
+      "categories": ["everyday-essentials", "top-10"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "3 Piece",
+      "price": 5290,
+      "originalPrice": 5990,
+      "badge": "Limited",
+      "featuredTop10Rank": 2,
+      "top10Subtitle": "3 Piece",
+      "top10Title": "Essential Pret",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuA0AGvAJd4OQrTarlyMWIk5VDdOTA7HYHiq8fR5IdQVfhAH-eK7USZjyMJSHp-q-a40N5AKo85ey1USQ2Hg_uZQD507U_dz_9ZCUdF6IjGpM2EuI5vC2yYvu0H6bO2kAxksqF15_yfHveV1ST-4yjUwWLdv7-kzI3NjHJAWxIm6QGFoTlDefLdEiXT8QFq0WHiMEvWf5gcnvTffHB9dSQeL9i7Un0WnT_Rn5Ds99PWb_1xLpthYwe7hig384kSbRSH5Zw"
+      ],
+      "description": "A 3-piece tiered peplum silhouette in soothing earthen grey. Featuring gathered waist detailing, flowy straight-cut bottoms, and a lightweight printed dupatta.",
+      "fabricDetails": "Pure Slub Viscose Lawn Kurta and Trousers with Soft Voile Chiffon Dupatta.",
+      "careGuide": "Dry clean recommended for first wash. Cold hand wash thereafter.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true }
+      ],
+      "rating": 4.8,
+      "reviewCount": 98,
+      "inStock": true
+    },
+    {
+      "id": "top10-3",
+      "name": "Chinese Button Everyday Kurta",
+      "category": "chinese-button-sets",
+      "categories": ["chinese-button-sets", "top-10", "everyday-essentials"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Kurta",
+      "price": 3690,
+      "badge": "Selling Fast",
+      "featuredTop10Rank": 3,
+      "top10Subtitle": "Kurta",
+      "top10Title": "Essential Pret",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuC06p66_H2_VbcEXa_0ewL0T0PpDq_0vuXCEJfj7Nx3a_aWTh4QwuGHRpQlGMVWyGjqZmCevEyl50UaJhZ1EWbFwf56SKiLEJhdSmrYAcr-uUmKElgfAnYXI_XcMQgaFC-_8fdHfRabsP1Ltr2DrGrlCX6AFtLmdTfA3BKZCsFjLM4atpxRv6A3S-5ghy79anMj31O09BrRRTA9IfjCn0tn1TJNjx2cnmJmfWq04mcMNBUGmPhdVEHnFSIDtT9VAbnk0g"
+      ],
+      "description": "Iconic monochrome statement kurta featuring traditional Chinese frog knot closure buttons, sleek mandarin neck, and deep side slits. Elegant, timeless, and contemporary.",
+      "fabricDetails": "High-density linen-cotton blend. Colorfast guarantee.",
+      "careGuide": "Hand wash with mild detergent. Do not bleach.",
+      "variants": [
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 215,
+      "inStock": true
+    },
+    {
+      "id": "top10-4",
+      "name": "Teal Mandarin Kurta & Dupatta Set",
+      "category": "the-debut",
+      "categories": ["the-debut", "top-10"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Kurta & Dupatta",
+      "price": 4790,
+      "badge": "New",
+      "featuredTop10Rank": 4,
+      "top10Subtitle": "Kurta & Dupatta",
+      "top10Title": "Essential Pret",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuB7lT1x0Z8tMKeVn96aFUFCpCJSNn8ezMnILJmn1vWG7e3stYIsbkBM8Eb9U_YUgAQ4dbkiBz_p1eTCI4fdPd7jsSMexmE66uUKMq7z3YpkneIfKh-3PIE20sJ-bHBw1qEO78o8PH8L41VgJNr6EUXwl3YefjBxySBeja6STmmbPP0OYIxeniwVhUKIn1kKux6kQi__GGlpHF63D9SaERMsk6h_lRK6S1f7YFr-wwQxcRpYjrDhCSRGJ7mmRgqptIeWfg"
+      ],
+      "description": "Vibrant peacock teal dual-piece ensemble. Features asymmetric frog-button closure, tailored palazzo cut, and a matching sheer drape dupatta.",
+      "fabricDetails": "Premium Raw Silk feel blended lawn. Lightweight and breathable.",
+      "careGuide": "Dry clean preferred. Iron on medium silk setting.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": false }
+      ],
+      "rating": 4.7,
+      "reviewCount": 84,
+      "inStock": true
+    },
+    {
+      "id": "women-1",
+      "name": "Embroidered Lawn Kurta Suit",
+      "category": "women",
+      "categories": ["women", "everyday-essentials"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Summer Essential 3 Pc",
+      "price": 4990,
+      "badge": "Best Seller",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAmaKDQnI5w6lNM4ZPD4bifm_7jOdrbq1Vau9Ikl1rYV2mG9YXOpJhAwYNVRMZoS7Nv0i2UOHCLb-qSRbXoNcgEKS4SI3GTeZK7jbumHJLtA-G1ormhV16B00QIsm7qlXBTSg1Z3rx2ej_npNxcYX-D_sq1UUTzkBU3XHZ3J7nfO4Ts-5w5CU7MTFmM-yB5-iTE6FDmNl48mHuqgE9bHTmXpuhM5AI-kLkIf6d-0LJy9WX5QUEcWC8FC133iXXoqNM_rA"
+      ],
+      "description": "Warm coral terracotta three-piece embroidered lawn suit. Features intricate Resham threadwork along the neckline, paired with tailored cigarette pants and printed lawn dupatta.",
+      "fabricDetails": "Shirt: Embroidered Lawn (3m) | Trousers: Dyed Cambric (2.5m) | Dupatta: Soft Printed Lawn (2.5m)",
+      "careGuide": "Soak in lukewarm water before stitching if unstitched. For stitched, wash dark colors separately.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 312,
+      "inStock": true
+    },
+    {
+      "id": "women-2",
+      "name": "Printed Chiffon Dupatta Edit",
+      "category": "women",
+      "categories": ["women"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Summer Essential 3 Pc",
+      "price": 3890,
+      "badge": "Limited",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCK5DGblxR6wP750xxHhhP2PxRcX09EwroSjsezvTy8PQ05B3rKtDQJrVvImkr3Ei47OZEnW7-2Z5c0abQD50GZYoZ3yDHEEDpNOSGVbiuDB96l9fSVE7j1178EkD2N8h9KqEJfVfQ6F6O_jdUKajYkSObs6p9HTWjX7AmQIbeGxTcPiqRL2Ea1W-SWc0F4m91lQuyh027RxKEmmhhqmCsJmkVlT7zj1FjhvNeF269_6wzIYuGCDYJCFJEZLhgJBnAzcg"
+      ],
+      "description": "Delicate floral botanical print on silky smooth lawn. Accompanied by a diaphanous printed chiffon dupatta and solid dyed cotton trousers.",
+      "fabricDetails": "Digitally printed lawn shirt with imported silk-chiffon dupatta.",
+      "careGuide": "Gentle hand wash. Do not wring or dry in direct sunlight.",
+      "variants": [
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true }
+      ],
+      "rating": 4.8,
+      "reviewCount": 167,
+      "inStock": true
+    },
+    {
+      "id": "women-3",
+      "name": "Printed & Embroidered Kurta",
+      "category": "women",
+      "categories": ["women"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Summer Essential 3 Pc",
+      "price": 5490,
+      "badge": "Selling Fast",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuA-959l0Jil9hgnqsIF7CdW7d6G45_RpW-4OvMVszqLEpS8BQ_pgEZYpYst_Hb2kAsEDCaWFm-63B6GOt_b7mx5K5I0Io3Ls5wECJzpDfChrZdm6w9V346JE47WEeSLwMekbGaDhLRMGl2390IgrEPZoWTosTRLrEOmk-TgTHzurR7x38DvnyuVPhidcKeH6o67WW3a5JzZ1lZyM0ay8J7tspKxoIZWr5UB3IyaY_rwfMDvZVFltkjU3CvVGs0CmvkyUQ"
+      ],
+      "description": "Rich contrast embroidery with ethnic geometric borders. High neckline with handcrafted tassel buttons, complemented by a contrast printed voile dupatta.",
+      "fabricDetails": "100% Combed Compact Lawn with Organza embroidered border inserts.",
+      "careGuide": "Professional dry cleaning recommended for longevity of embroidered motifs.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 245,
+      "inStock": true
+    },
+    {
+      "id": "women-4",
+      "name": "Sage Silk Embroidered Unstitched 3 Pc",
+      "category": "women",
+      "categories": ["women"],
+      "subCategory": "Unstitched",
+      "subtitle": "Luxury Unstitched",
+      "price": 6490,
+      "badge": "New",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuBSt89tVB7_HdpELpn482Og54RQYDb-DTvSlpgDFGi6pWUeYLDf8PzvKoJk0vXGOysKfBBUyTMH82uhhJA_2Wp9wSFbexlCILMnhc_Hzo7fUGEqvuEQK4UObGHiDBxia4aQ0ViQCrtqGiPYMjGNrflfLMghI8HMfXX4alDQA2cQZ8vsAEpAAqHtUD7JGW6xMZm8SFIGv753ijqg4rsOWdlXaPTae63aE1VTfnYXIgI4cATTjCSH_-4d8Qcs03x8sWCu0w"
+      ],
+      "description": "Unstitched luxury 3-piece featuring self-jacquard weave, tilla thread accents, and an opulent zari organza dupatta.",
+      "fabricDetails": "Jacquard Lawn with Zari Dupatta",
+      "careGuide": "Dry clean only.",
+      "variants": [
+        { "size": "Unstitched", "inStock": true }
+      ],
+      "rating": 4.8,
+      "reviewCount": 78,
+      "inStock": true
+    },
+    {
+      "id": "men-1",
+      "name": "Wash & Wear Navy Blue Kurta",
+      "category": "men",
+      "categories": ["men"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Eastern Wear",
+      "price": 2990,
+      "badge": "Most Wanted",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuApQo_O8X-b-e5Bgj3GG9s2D6E-7nxfSaOT7yebN7uQwT_78h1ObIJqHhVpAA-j3mxfzoeoYQgq1XsnXFEwYjZQssqCBldxQfKTIraTVBdJBDips7ceLI1sHv7kMP5vtqDv1onbUza8fu_sKxZihTvRT2nxOMzLHBZd6A2mCJjeppA-zYk1ojADfiHEtRBhVkekMf_THlsMNLjbfttetGDwbxrOyensoHj0UzIyq9CXnnFEIAm0emClxGE5Ij8FdR8ceg"
+      ],
+      "description": "Crisp navy blue eastern kurta in wrinkle-resistant wash-and-wear fabric. Classic ban collar with metal-tinted stud buttons and dual side pockets.",
+      "fabricDetails": "Superfine Poly-Viscose blend. Guaranteed color-fast threads — no bleeding guaranteed.",
+      "careGuide": "Machine wash warm. Low tumble dry. Light press.",
+      "variants": [
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 189,
+      "inStock": true
+    },
+    {
+      "id": "men-2",
+      "name": "Classic Boski Shalwar Kameez",
+      "category": "men",
+      "categories": ["men"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Eastern Wear",
+      "price": 4490,
+      "badge": "Best Seller",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCktE81jOTusuWwoQ9rHst_ENbr17e5b4Gx_A8vVzq_qErdDJjFsXqBTIsLPRGFdHtNJiVvww-gF589CmInoE9rTpOTd8EoiSTLXfbB37hTc9P2rurBv3JKr6aUZD5UPIwqOzehROKXTd2j_OqKZAZtGipFUjXRlzdBv3CWE8R-ybTRMeSDM9jNPMZAlTUk-usSdP44eUmt_oHnvTHxLCVEH_bkKG5CkrU3epikOrLL63wzRJanfvcE7eoFBCXtnTIaxA"
+      ],
+      "description": "The national standard of distinction. Traditional off-white / bone Boski finish with tailored cuffs, sharp shirt collar, and generous comfort-cut shalwar.",
+      "fabricDetails": "Premium Boski textured microfiber with lustrous sheen and featherlight drape.",
+      "careGuide": "Hand wash with mild fabric conditioner. Warm iron.",
+      "variants": [
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 5.0,
+      "reviewCount": 421,
+      "inStock": true
+    },
+    {
+      "id": "men-3",
+      "name": "Jade Blended Shalwar Kameez",
+      "category": "men",
+      "categories": ["men"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Eastern Wear",
+      "price": 3990,
+      "badge": "Low Stock",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCKykbp-OUdzf4wM-F0TR4znvFirOgd0rCHX0z_KbUi8uOZgvWcRWpL5qPKWnvDeapfvtBdLXzU62xEcxs3vlxDWSDMj6OnwPtn4YOLnIj_PtMaXmizZh0uxU3Z_3ql1dGSXlNxmhz9NEwidCk9uqo6eRuTBlsKBMU-8lF-p3uvQUaQN7kGQRR_Xx-c-d-8qd2xUAMa92F-kKM3aGoDPP7mjhfTEBlWSWqsunVmxawUfZePT0dbUeRZhNYqqRCkyiCsRw"
+      ],
+      "description": "Deep charcoal black tailored suit featuring subtle self-stripe texture, structured cuff closures, and reinforced seam stitching.",
+      "fabricDetails": "Tropical four-season poly-viscose blend. Anti-crease finish.",
+      "careGuide": "Machine wash cold. Hang dry.",
+      "variants": [
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": false }
+      ],
+      "rating": 4.8,
+      "reviewCount": 133,
+      "inStock": true
+    },
+    {
+      "id": "men-4",
+      "name": "Signature Pique Cotton Polo",
+      "category": "men",
+      "categories": ["men"],
+      "subCategory": "Polo Shirts",
+      "subtitle": "Smart Casual",
+      "price": 2490,
+      "badge": "New",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuBw8wAhNsBxMQyofRToePCBgMHZZBVIvy-Me9Pf9TQD6nMWuuXZnNNKMokYs8guiMW7sVQWmGA3Jk2BJF1LvwodH1RvyjeyOPErT1ndjJ7x0gDzTWZngdVAXbS6murcUSAL0mgh_tDVebleBqPmyexfXvLOdbPqZ1wbPmmUjaJ8kJSpbP7XcAFMICUQKcTkDSa82RHwc28o8VtzuQqtv_lUXsds7YKehbXXG1ZD82r12ArRzwiGQlwpzIlwaVe5HiI2Rg"
+      ],
+      "description": "100% Combed ring-spun cotton pique knit polo shirt with embroidered monogram crest on the chest.",
+      "fabricDetails": "220 GSM Cotton Pique with ribbed collar and cuffs.",
+      "careGuide": "Machine wash cold with like colors.",
+      "variants": [
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 4.7,
+      "reviewCount": 92,
+      "inStock": true
+    },
+    {
+      "id": "scents-1",
+      "name": "Forbidden Cherry Body Mist 150ml",
+      "category": "scents",
+      "categories": ["scents"],
+      "subCategory": "For Her",
+      "subtitle": "For Her",
+      "price": 1890,
+      "badge": "Day To Night",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCMbtbd1blOFTPGXyzk_Z9o0CoDgyyCtCuO0qWSfGGg1ALOCOmfPnW5-42xEOeOXwRcNa1sjRzyGBzCZIWuOJQli3vlb43ghlpGfWxOX4E5kJ2VXezEJwamzz-1_uWkEZ7mQcNElSw2fNI2jCwiFxK-dfT1A5ze_QbTvRluHquxNN4_TE883-EI5n_HOypD1KsA7Ydw2mxopPvlaPWsd_nWeMGNrMgzO7S-iYQo0TBxEXz1ugxN6fTC"
+      ],
+      "description": "An intoxicating blend of luscious dark black cherries, bitter almond, and roasted tonka bean with a whisper of Turkish rose. Long-lasting refreshing fine fragrance mist.",
+      "fabricDetails": "Fragrance notes: Black Cherry, Bitter Almond, Turkish Rose, Vanilla Tonka.",
+      "careGuide": "Spritz generously onto pulse points and hair. Store away from heat and direct sunlight.",
+      "variants": [
+        { "size": "150ml", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 520,
+      "inStock": true
+    },
+    {
+      "id": "scents-2",
+      "name": "Dahlia Fragrance Mist 150ml",
+      "category": "scents",
+      "categories": ["scents"],
+      "subCategory": "For Her",
+      "subtitle": "For Her",
+      "price": 1890,
+      "badge": "Last Batch",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuAiIr6ky9uxf7-ZkAD0j4BHjr4K7wCIIKIjweqwDOQetqEJjUjPto20IYanYZNCukiVEssuaiaS7H9c6t-R68uYddQYAc8Y2xLqL6m4fflTXqufFnz75YU34VL0QDFm3-tVrlbw4K7c7p-KNjJR8k0y_KPwGIbuoWcu1uoDpT_BBB30X-S8dA1pyHylrPuYZzQX-lPEfSyiS0vCaN0UONuCQj14bcAeNPJMuoa6BfNwMNNWkZqKVGKa"
+      ],
+      "description": "Sun-drenched Dahlia petals, pear blossom, and pralines swirled with golden shimmer particles that impart an ethereal radiant glow to the collarbones and skin.",
+      "fabricDetails": "Fragrance notes: Velvet Dahlia, Crisp Pear, Amber Woods, Shimmer Mica.",
+      "careGuide": "Shake well before each spritz for uniform shimmer distribution.",
+      "variants": [
+        { "size": "150ml", "inStock": true }
+      ],
+      "rating": 4.8,
+      "reviewCount": 389,
+      "inStock": true
+    },
+    {
+      "id": "scents-3",
+      "name": "RED Luxury Eau De Parfum 100ml",
+      "category": "scents",
+      "categories": ["scents"],
+      "subCategory": "For Her",
+      "subtitle": "For Her",
+      "price": 3490,
+      "badge": "Best Seller",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuDdBW99B9S5feM-3jM2B2tbhgmkOo5pJ-xY6M5IkrXBV1MDIQTE2ig7joQvZ-eNndu9hz9lEVZolDCZKsW79NhfHEP8dKkFSoBolOEasBImYVqUeafUZJpxeb_gZOlaaarlFMAljFTqkgyQ_WNCcfeeTDZULU8FOywXTfWM6PQb8E0DeJhCxW6qCGI6Qt3k_w3a9cni75nyvPpuaWc2lskuzZdkdIvvObg7ZAGeqZr-AanVMBv7lSSS"
+      ],
+      "description": "Sensual, sophisticated, and daring. Crimson red bottle housing high-concentration Parisian oils featuring saffron, jasmine sambac, ambergris, and cedarwood.",
+      "fabricDetails": "Concentration: Eau De Parfum (EDP) 25% fragrance oil load.",
+      "careGuide": "Apply on neck and wrists. Flammable. Avoid contact with eyes.",
+      "variants": [
+        { "size": "100ml", "inStock": true }
+      ],
+      "rating": 5.0,
+      "reviewCount": 640,
+      "inStock": true
+    },
+    {
+      "id": "scents-4",
+      "name": "Royal Oud Extreme Eau De Parfum 100ml",
+      "category": "scents",
+      "categories": ["scents"],
+      "subCategory": "For Him",
+      "subtitle": "For Him",
+      "price": 3890,
+      "badge": "New",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuCAX2W1CkP7elImaC8-NF0Zommi-9I79v8S02ZPSq3u7ddmgEiipvqm84voOhQmMEF8BUapLoANruqhYn8Rji0FLzKW8OjE4F4bGoyRsIcOYioOTVcoA97dG8TFTfRBb4ZstQ7woJZVgTWv3Nru8T82ypEtmtBCZklPaObkOJkkA488qTM0NC_nKC43WTmxtAPoQRCkgwq_1cPEFJ1bSDXBy9AXIzT7fIsADIp8-mUqQI34X2q_TlxV"
+      ],
+      "description": "Regal oriental oud blended with smoky frankincense, leather, cardamom, and dark Indonesian patchouli.",
+      "fabricDetails": "Eau De Parfum (EDP) 100ml bottle.",
+      "careGuide": "Store in a cool, dark environment.",
+      "variants": [
+        { "size": "100ml", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 178,
+      "inStock": true
+    },
+    {
+      "id": "chikankari-1",
+      "name": "Pakistan's Favorite Chikankari Purple Edit",
+      "category": "chikankari",
+      "categories": ["chikankari", "women"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "Instant Classics",
+      "price": 5990,
+      "originalPrice": 6990,
+      "badge": "Limited",
+      "images": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuDhfFacQYDrAk1CSWxY5L-W0_jjOnwCNOTydv0SynNXXZxqFqLEiB-777L9o6scYivHCRV0cowSPmcJWK488CVzKJI5zCgRlqzlDonCH_4zaeBhMD3bKUO0AqPWYXfDG8trfb-illmUAvMfwdjNm_t4QmiiWpzHRehGDr7SBUXesY1AWtxAkNMfkA1rrcjK-41_k30hFkYKmiUkFsZkOLwtx3N6X8sUzPJuLzVU2cjy2e4zRF86F89bJmSF1x996hHfjw"
+      ],
+      "description": "Thousands have already shopped this season's chikankari edit. Featuring ethereal tone-on-tone dense shadow work embroidery on pure royal magenta cotton lawn, styled with flared culottes and matching micro-bag pouch.",
+      "fabricDetails": "100% Fine Combed Chikankari lawn with cotton slip included.",
+      "careGuide": "Dry clean recommended. Low steam iron on reverse.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 489,
+      "inStock": true
+    }
+  ],
+  "categoryMap": {
+    "women": ["women-1", "women-2", "women-3", "women-4", "chikankari-1"],
+    "men": ["men-1", "men-2", "men-3", "men-4"],
+    "scents": ["scents-1", "scents-2", "scents-3", "scents-4"],
+    "chinese-button-sets": ["top10-3"],
+    "the-debut": ["top10-4"],
+    "everyday-essentials": ["top10-1", "top10-2", "top10-3", "women-1"],
+    "chikankari": ["chikankari-1"],
+    "top-10": ["top10-1", "top10-2", "top10-3", "top10-4"]
+  },
+  "updatedAt": "2026-11-02T06:00:00.000Z"
+}
