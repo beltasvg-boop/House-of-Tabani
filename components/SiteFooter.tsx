@@ -14,14 +14,14 @@ export default function SiteFooter() {
             <div className="space-y-1.5 text-zinc-400">
               <p>
                 Email:{' '}
-                <a className="text-zinc-300 hover:text-white underline" href={`mailto:${BUSINESS_CONFIG.email}`}>
+                <a className="text-zinc-300 hover:text-white underline transition-colors" href={`mailto:${BUSINESS_CONFIG.email}`}>
                   {BUSINESS_CONFIG.email}
                 </a>
               </p>
               <p>
-                UAN:{' '}
-                <a className="text-zinc-300 hover:text-white font-mono" href={`tel:${BUSINESS_CONFIG.callUAN}`}>
-                  {BUSINESS_CONFIG.displayUAN}
+                Phone:{' '}
+                <a className="text-zinc-300 hover:text-white font-mono transition-colors" href={`tel:${BUSINESS_CONFIG.callPhone}`}>
+                  {BUSINESS_CONFIG.displayPhone}
                 </a>
               </p>
               <p className="text-[11px] text-zinc-500 pt-1">{BUSINESS_CONFIG.workingHours}</p>
@@ -43,7 +43,12 @@ export default function SiteFooter() {
                 </Link>
               </li>
               <li>
-                <a className="hover:text-white transition-colors" href="#payment">
+                <Link className="hover:text-white transition-colors" href="/#faq">
+                  FAQs &amp; Help
+                </Link>
+              </li>
+              <li>
+                <a className="hover:text-white transition-colors" href="/#faq">
                   Payment Options
                 </a>
               </li>
@@ -112,9 +117,9 @@ export default function SiteFooter() {
               <div className="bg-white text-emerald-800 font-bold px-2 py-1 rounded-xs text-[11px]">
                 PayFast
               </div>
-              {/* COD Badge */}
-              <div className="bg-zinc-800 text-zinc-200 font-semibold px-2 py-1 rounded-xs text-[10px] tracking-wider uppercase">
-                COD
+              {/* Bank Transfer Badge */}
+              <div className="bg-zinc-800 text-zinc-200 font-semibold px-2.5 py-1 rounded-xs text-[10px] tracking-wider uppercase">
+                Bank Transfer
               </div>
             </div>
           </div>
@@ -123,9 +128,9 @@ export default function SiteFooter() {
         {/* Bottom Sub-footer */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-[11px] text-zinc-500 space-y-4 sm:space-y-0">
           <div className="flex items-center space-x-6">
-            <a className="hover:text-zinc-300 transition-colors" href="#faqs">
+            <Link className="hover:text-zinc-300 transition-colors" href="/#faq">
               FAQ&apos;s
-            </a>
+            </Link>
             <a className="hover:text-zinc-300 transition-colors" href="#terms">
               Terms and condition
             </a>

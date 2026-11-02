@@ -6,13 +6,15 @@
 export const BUSINESS_CONFIG = {
   storeName: 'House of Tabani',
   tagline: 'Style that moves with you.',
-  // Official WhatsApp number in international format without +, spaces, or dashes
-  // Default Pakistani business WhatsApp line for instant click-to-chat
-  whatsappNumber: '923213840207', 
-  displayWhatsapp: '+92 321 3840207',
-  displayUAN: '+92-21-38402072',
-  callUAN: '+922138402072',
-  email: 'customer.care@houseoftabani.com',
+  // Official WhatsApp and Contact line
+  whatsappNumber: '923252267688', 
+  displayWhatsapp: '+92 325 2267688',
+  phone: '+92 325 2267688',
+  displayPhone: '+92 325 2267688',
+  callPhone: '+923252267688',
+  displayUAN: '+92 325 2267688',
+  callUAN: '+923252267688',
+  email: 'info@houseoftabani.com',
   workingHours: 'MON-SUN 09:00 AM - 01:00 AM PST',
   
   // Shipping Rules

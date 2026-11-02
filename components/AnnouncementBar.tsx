@@ -24,8 +24,8 @@ export default function AnnouncementBar() {
                 strokeWidth="2"
               />
             </svg>
-            <a className="hover:text-black transition-colors font-mono tracking-tight" href={`tel:${BUSINESS_CONFIG.callUAN}`}>
-              UAN: {BUSINESS_CONFIG.displayUAN}
+            <a className="hover:text-black transition-colors font-mono tracking-tight" href={`tel:${BUSINESS_CONFIG.callPhone}`}>
+              Phone: {BUSINESS_CONFIG.displayPhone}
             </a>
           </span>
           <span className="hidden md:inline text-zinc-300">|</span>

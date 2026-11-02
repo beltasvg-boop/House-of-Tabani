@@ -42,20 +42,16 @@ export default function TrustMetricsSection() {
         {/* Trust Features Strip */}
         <div className="flex flex-wrap items-center justify-center gap-y-3 gap-x-8 text-xs font-semibold text-zinc-700 mt-10">
           <div className="flex items-center gap-1.5">
-            <RefreshCw className="w-4 h-4 text-zinc-800" />
-            <span>Easy 30-day exchange</span>
-          </div>
-          <div className="flex items-center gap-1.5">
             <ShieldCheck className="w-4 h-4 text-zinc-800" />
-            <span>Secure checkout</span>
+            <span>100% Quality inspected</span>
           </div>
           <div className="flex items-center gap-1.5">
             <Truck className="w-4 h-4 text-zinc-800" />
-            <span>Ships across Pakistan</span>
+            <span>Delivery in 8-9 working days</span>
           </div>
           <div className="flex items-center gap-1.5">
             <Banknote className="w-4 h-4 text-zinc-800" />
-            <span>Cash on delivery available</span>
+            <span>Direct bank transfer</span>
           </div>
         </div>
 
