@@ -1,6 +1,38 @@
 {
   "products": [
     {
+      "id": "HT-001",
+      "name": "House of Tabani Orchid Magenta Co-Ord Set",
+      "category": "everyday-essentials",
+      "categories": ["everyday-essentials", "women", "the-debut", "top-10"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "2 Piece Co-ord Set",
+      "price": 4990,
+      "originalPrice": 5890,
+      "badge": "New Arrival",
+      "featuredTop10Rank": 1,
+      "top10Subtitle": "2 Piece Co-ord",
+      "top10Title": "Everyday Basics",
+      "images": [
+        "/products/HT-001_1.png",
+        "/products/HT-001_2.png",
+        "/products/HT-001_3.png"
+      ],
+      "description": "Effortless elegance in vibrant orchid magenta. Features a tailored kimono-crossover lapel, breezy wide flared sleeves, and matching pleated high-rise palazzo trousers. Perfect for everyday casual glamour and evening gatherings.",
+      "fabricDetails": "100% Breathable Fine Textured Silk-Crepe. Fluid drape with ultra-soft hand feel.",
+      "careGuide": "Dry clean or gentle cold hand wash. Iron inside out on medium silk setting.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 5.0,
+      "reviewCount": 42,
+      "inStock": true
+    },
+    {
       "id": "top10-1",
       "name": "Essential Pret Kurta Trouser Set",
       "category": "everyday-essentials",
@@ -429,14 +461,14 @@
     }
   ],
   "categoryMap": {
-    "women": ["women-1", "women-2", "women-3", "women-4", "chikankari-1"],
+    "women": ["HT-001", "women-1", "women-2", "women-3", "women-4", "chikankari-1"],
     "men": ["men-1", "men-2", "men-3", "men-4"],
     "scents": ["scents-1", "scents-2", "scents-3", "scents-4"],
     "chinese-button-sets": ["top10-3"],
-    "the-debut": ["top10-4"],
-    "everyday-essentials": ["top10-1", "top10-2", "top10-3", "women-1"],
+    "the-debut": ["HT-001", "top10-4"],
+    "everyday-essentials": ["HT-001", "top10-1", "top10-2", "top10-3", "women-1"],
     "chikankari": ["chikankari-1"],
-    "top-10": ["top10-1", "top10-2", "top10-3", "top10-4"]
+    "top-10": ["HT-001", "top10-1", "top10-2", "top10-3", "top10-4"]
   },
   "updatedAt": "2026-11-02T06:00:00.000Z"
 }
