@@ -16,6 +16,10 @@ export const BUSINESS_CONFIG = {
   callUAN: '+923252267688',
   email: 'info@houseoftabani.com',
   workingHours: 'MON-SUN 09:00 AM - 01:00 AM PST',
+  socials: {
+    facebook: 'https://www.facebook.com/HouseOfTabani/',
+    instagram: 'https://www.instagram.com/houseoftabani/',
+  },
   
   // Shipping Rules
   freeShippingItemThreshold: 3, // "BUY 3 ITEMS AND GET FREE DELIVERY"
