@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { Facebook, Instagram } from 'lucide-react';
+import { Facebook, Instagram, Landmark } from 'lucide-react';
 import { BUSINESS_CONFIG } from '@/config/business';
 
 export default function SiteFooter() {
@@ -25,94 +25,79 @@ export default function SiteFooter() {
                   {BUSINESS_CONFIG.displayPhone}
                 </a>
               </p>
-              <div className="pt-2 flex items-center gap-3 text-black">
+              <div className="pt-2 flex items-center gap-3">
                 <a
                   href="https://www.facebook.com/HouseOfTabani/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="p-1 rounded-sm hover:opacity-70 transition-opacity text-black inline-flex items-center justify-center"
+                  className="w-8 h-8 rounded-full bg-[#1877F2] text-white flex items-center justify-center hover:opacity-90 hover:scale-105 transition-all shadow-xs"
                   aria-label="House of Tabani Facebook"
                 >
-                  <Facebook className="w-4 h-4" />
+                  <Facebook className="w-4 h-4 fill-white" />
                 </a>
                 <a
                   href="https://www.instagram.com/houseoftabani/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="p-1 rounded-sm hover:opacity-70 transition-opacity text-black inline-flex items-center justify-center"
+                  className="w-8 h-8 rounded-full bg-gradient-to-tr from-[#f9ce34] via-[#ee2a7b] to-[#6228d7] text-white flex items-center justify-center hover:opacity-90 hover:scale-105 transition-all shadow-xs"
                   aria-label="House of Tabani Instagram"
                 >
-                  <Instagram className="w-4 h-4" />
+                  <Instagram className="w-4 h-4 text-white" />
                 </a>
               </div>
             </div>
           </div>
 
-          {/* Help Links */}
+          {/* Shop Collections */}
           <div>
-            <h4 className="text-xs font-bold tracking-wider uppercase text-black mb-3">HELP</h4>
+            <h4 className="text-xs font-bold tracking-wider uppercase text-black mb-3">SHOP</h4>
             <ul className="space-y-2 text-black">
               <li>
                 <Link className="hover:underline transition-colors" href="/products">
-                  All Collections
+                  All collections
                 </Link>
               </li>
               <li>
-                <Link className="hover:underline transition-colors" href="/checkout">
-                  Express Checkout
+                <Link className="hover:underline transition-colors" href="/products?category=chinese-button-sets">
+                  Chinese Button Sets
                 </Link>
               </li>
               <li>
-                <Link className="hover:underline transition-colors" href="/#faq">
-                  FAQs &amp; Help
+                <Link className="hover:underline transition-colors" href="/products?category=the-debut">
+                  The Debut
                 </Link>
               </li>
               <li>
-                <a className="hover:underline transition-colors" href="/#faq">
-                  Payment Options
-                </a>
-              </li>
-              <li>
-                <a className="hover:underline transition-colors" href="#baadmay">
-                  BaadMay (Pay Later)
-                </a>
-              </li>
-              <li>
-                <a className="hover:underline transition-colors" href="#shipping">
-                  Shipping &amp; Deliveries
-                </a>
-              </li>
-              <li>
-                <a className="hover:underline transition-colors" href="#returns">
-                  Exchange &amp; Returns
-                </a>
+                <Link className="hover:underline transition-colors" href="/products?category=everyday-essentials">
+                  Everyday Basics
+                </Link>
               </li>
             </ul>
           </div>
 
-          {/* About Links */}
+          {/* Quick Links */}
           <div>
-            <h4 className="text-xs font-bold tracking-wider uppercase text-black mb-3">ABOUT Hot</h4>
+            <h4 className="text-xs font-bold tracking-wider uppercase text-black mb-3">QUICK LINKS</h4>
             <ul className="space-y-2 text-black">
               <li>
-                <a className="hover:underline transition-colors" href="#about">
-                  About Us
-                </a>
+                <Link className="hover:underline transition-colors" href="/">
+                  Home
+                </Link>
               </li>
               <li>
-                <a className="hover:underline transition-colors" href="#contact">
-                  Contact Us
-                </a>
+                <Link className="hover:underline transition-colors" href="/size-chart">
+                  Size Chart
+                </Link>
               </li>
               <li>
-                <a className="hover:underline transition-colors" href="#careers">
-                  Work With Us
-                </a>
+                <Link className="hover:underline transition-colors" href="/delivery-policy">
+                  Delivery Policy
+                </Link>
               </li>
               <li>
-                <a className="hover:underline transition-colors" href="#stores">
-                  Retail Store Locations
-                </a>
+                <Link className="hover:underline transition-colors" href="/return-and-exchange-policy">
+                  Return &amp; Exchange Policy
+                </Link>
               </li>
             </ul>
           </div>
@@ -121,25 +106,13 @@ export default function SiteFooter() {
           <div>
             <h4 className="text-xs font-bold tracking-wider uppercase text-black mb-3">PAYMENT METHOD</h4>
             <p className="text-[11px] text-black mb-3">
-              100% secure encrypted checkout with flexible local payment options.
+              Direct bank transfer available for secure order payments.
             </p>
             <div className="flex flex-wrap items-center gap-3">
-              {/* VISA Badge */}
-              <div className="bg-zinc-50 border border-zinc-300 text-zinc-900 font-black px-2.5 py-1 rounded-xs text-xs tracking-tighter">
-                VISA
-              </div>
-              {/* Mastercard Badge */}
-              <div className="bg-zinc-50 border border-zinc-300 px-2 py-1 rounded-xs flex items-center">
-                <span className="w-3.5 h-3.5 rounded-full bg-red-600 inline-block -mr-1"></span>
-                <span className="w-3.5 h-3.5 rounded-full bg-amber-500 inline-block opacity-90"></span>
-              </div>
-              {/* PayFast Badge */}
-              <div className="bg-zinc-50 border border-zinc-300 text-emerald-800 font-bold px-2 py-1 rounded-xs text-[11px]">
-                PayFast
-              </div>
               {/* Bank Transfer Badge */}
-              <div className="bg-zinc-50 border border-zinc-300 text-black font-semibold px-2.5 py-1 rounded-xs text-[10px] tracking-wider uppercase">
-                Bank Transfer
+              <div className="bg-zinc-50 border border-zinc-300 text-black font-semibold px-3 py-1.5 rounded-xs text-[11px] tracking-wider uppercase inline-flex items-center gap-2">
+                <Landmark className="w-3.5 h-3.5 text-zinc-900" />
+                <span>Bank Transfer</span>
               </div>
             </div>
           </div>
@@ -151,12 +124,12 @@ export default function SiteFooter() {
             <Link className="hover:underline transition-colors" href="/#faq">
               FAQ&apos;s
             </Link>
-            <a className="hover:underline transition-colors" href="#terms">
+            <Link className="hover:underline transition-colors" href="/terms-and-conditions">
               Terms and condition
-            </a>
-            <a className="hover:underline transition-colors" href="#privacy">
+            </Link>
+            <Link className="hover:underline transition-colors" href="/privacy-policy">
               Privacy policy
-            </a>
+            </Link>
           </div>
           <div>
             <p>© 2026 HouseofTabani. All Rights Reserved.</p>
