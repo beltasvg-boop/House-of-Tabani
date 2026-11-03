@@ -7,7 +7,7 @@ import { useRouter } from 'next/navigation';
 import { useCart } from '@/context/CartContext';
 import { PRODUCTS } from '@/data/products';
 import { Product } from '@/types';
-import { Search, ShoppingBag, Menu, X, User, ChevronDown } from 'lucide-react';
+import { Search, ShoppingBag, Menu, X, ChevronDown } from 'lucide-react';
 
 export default function SiteHeader() {
   const router = useRouter();
@@ -130,12 +130,12 @@ export default function SiteHeader() {
               the debut
             </Link>
 
-            {/* Everyday Essentials */}
+            {/* Everyday Basics */}
             <Link
               className="hover:text-black py-7 border-b-2 border-transparent hover:border-black transition-all"
               href="/products?category=everyday-essentials"
             >
-              everyday essentials
+              everyday basics
             </Link>
 
             {/* Size Guide */}
@@ -153,10 +153,10 @@ export default function SiteHeader() {
             {/* Search Input */}
             <div className="relative hidden sm:block" ref={searchContainerRef}>
               <form onSubmit={handleSearchSubmit}>
-                <div className="flex items-center border border-zinc-200 rounded-full px-3.5 py-1.5 focus-within:border-black bg-zinc-50/70 transition-colors">
+                <div className="flex items-center border border-zinc-200 rounded-full px-3.5 py-1.5 focus-within:border-black bg-zinc-50/70 transition-all w-52 sm:w-64 md:w-80 lg:w-96">
                   <Search className="w-4 h-4 text-zinc-400 mr-2 flex-shrink-0" />
                   <input
-                    className="bg-transparent border-0 text-xs focus:ring-0 p-0 text-zinc-800 placeholder-zinc-400 w-36 lg:w-48 outline-none"
+                    className="bg-transparent border-0 text-xs focus:ring-0 p-0 text-zinc-800 placeholder-zinc-400 w-full outline-none"
                     placeholder="Search kurtas, lawn, polos..."
                     type="text"
                     value={searchQuery}
@@ -177,7 +177,7 @@ export default function SiteHeader() {
 
               {/* Instant Search Suggestions Dropdown */}
               {searchFocused && searchResults.length > 0 && (
-                <div className="absolute right-0 top-full mt-2 w-80 bg-white border border-zinc-200 shadow-2xl rounded-sm py-2 z-50">
+                <div className="absolute right-0 top-full mt-2 w-full min-w-[320px] bg-white border border-zinc-200 shadow-2xl rounded-sm py-2 z-50">
                   <div className="px-3 py-1.5 border-b border-zinc-100 flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-zinc-400">
                     <span>Products ({searchResults.length})</span>
                     <button
@@ -215,28 +215,6 @@ export default function SiteHeader() {
                   ))}
                 </div>
               )}
-            </div>
-
-            {/* User Account with Dropdown */}
-            <div className="relative group hidden sm:block">
-              <button aria-label="Account" className="p-1 hover:text-black focus:outline-none">
-                <User className="w-5 h-5 stroke-[1.8]" />
-              </button>
-              <div className="absolute right-0 top-full mt-2 w-52 bg-white border border-zinc-200 shadow-xl rounded-sm py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all text-xs font-medium z-50">
-                <div className="px-4 py-2 border-b border-zinc-100">
-                  <p className="font-bold text-zinc-900">Sign in to account</p>
-                  <p className="text-[10px] text-zinc-500">Track orders & faster WhatsApp checkout</p>
-                </div>
-                <Link className="block px-4 py-2 text-zinc-700 hover:bg-zinc-50 hover:text-black" href="/checkout">
-                  Express Checkout
-                </Link>
-                <Link className="block px-4 py-2 text-zinc-700 hover:bg-zinc-50 hover:text-black" href="/products">
-                  Explore Collections
-                </Link>
-                <a className="block px-4 py-2 text-zinc-700 hover:bg-zinc-50 hover:text-black" href="#faqs">
-                  Help & FAQs
-                </a>
-              </div>
             </div>
 
             {/* Shopping Bag with Counter Badge */}
@@ -327,7 +305,7 @@ export default function SiteHeader() {
                   href="/products?category=everyday-essentials"
                   onClick={() => setMobileMenuOpen(false)}
                 >
-                  Everyday Essentials
+                  Everyday Basics
                 </Link>
                 <button
                   type="button"
