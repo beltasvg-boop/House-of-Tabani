@@ -33,6 +33,133 @@
       "inStock": true
     },
     {
+      "id": "HT-002",
+      "name": "House of Tabani Terracotta Rust Co-Ord Set",
+      "category": "everyday-essentials",
+      "categories": ["everyday-essentials", "women", "the-debut", "top-10"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "2 Piece Co-ord Set",
+      "price": 5290,
+      "originalPrice": 6190,
+      "badge": "Trending",
+      "featuredTop10Rank": 2,
+      "top10Subtitle": "2 Piece Co-ord",
+      "top10Title": "Everyday Basics",
+      "images": [
+        "/products/HT-002_1.jpg",
+        "/products/HT-002_2.jpg",
+        "/products/HT-002_3.jpg",
+        "/products/HT-002_4.jpg",
+        "/products/HT-002_5.jpg"
+      ],
+      "description": "Rich terracotta rust tailored co-ord set with sleek button placket and relaxed wide-leg trousers. Cut from breathable textured crepe fabric that drapes effortlessly for daytime ease and evening poise.",
+      "fabricDetails": "100% Breathable Fine Textured Crepe. Soft, flowing, and wrinkle-resistant.",
+      "careGuide": "Dry clean or gentle cold hand wash. Warm iron inside out.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 5.0,
+      "reviewCount": 38,
+      "inStock": true
+    },
+    {
+      "id": "HT-003",
+      "name": "House of Tabani Charcoal Stone Belted Co-Ord Set",
+      "category": "everyday-essentials",
+      "categories": ["everyday-essentials", "women", "the-debut"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "2 Piece Belted Set",
+      "price": 5490,
+      "originalPrice": 6490,
+      "badge": "New Arrival",
+      "featuredTop10Rank": 3,
+      "top10Subtitle": "2 Piece Belted Set",
+      "top10Title": "Everyday Basics",
+      "images": [
+        "/products/HT-003_1.jpg",
+        "/products/HT-003_2.jpg",
+        "/products/HT-003_3.jpg",
+        "/products/HT-003_4.jpg",
+        "/products/HT-003_5.jpg"
+      ],
+      "description": "Sophisticated charcoal stone textured ensemble featuring an adjustable tie belt waist, elegant notch collar, and tailored straight-leg palazzos for a flattering silhouette.",
+      "fabricDetails": "High-density premium slub weave with light textured hand feel.",
+      "careGuide": "Machine wash cold on gentle cycle. Medium iron.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 4.9,
+      "reviewCount": 29,
+      "inStock": true
+    },
+    {
+      "id": "HT-004",
+      "name": "House of Tabani Signature Pret Co-Ord Set",
+      "category": "the-debut",
+      "categories": ["the-debut", "women", "everyday-essentials"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "2 Piece Signature Pret",
+      "price": 5690,
+      "originalPrice": 6590,
+      "badge": "Exclusive",
+      "images": [
+        "/products/HT-004_1.jpg",
+        "/products/HT-004_2.jpg",
+        "/products/HT-004_3.jpg",
+        "/products/HT-004_4.jpg",
+        "/products/HT-004_5.jpg",
+        "/products/HT-004_6.jpg",
+        "/products/HT-004_7.jpg"
+      ],
+      "description": "Distinctive luxury pret ensemble featuring meticulous stitching accents, relaxed silhouette, and matching high-waisted palazzo bottoms.",
+      "fabricDetails": "Ultra-soft premium crepe blend with silk-touch finish.",
+      "careGuide": "Dry clean recommended. Gentle hand wash in cold water.",
+      "variants": [
+        { "size": "XS", "inStock": true },
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true }
+      ],
+      "rating": 5.0,
+      "reviewCount": 17,
+      "inStock": true
+    },
+    {
+      "id": "HT-005",
+      "name": "House of Tabani Minimalist Everyday Set",
+      "category": "chinese-button-sets",
+      "categories": ["chinese-button-sets", "everyday-essentials", "women"],
+      "subCategory": "Ready To Wear",
+      "subtitle": "2 Piece Minimalist Kurta Set",
+      "price": 4790,
+      "originalPrice": 5490,
+      "badge": "Popular",
+      "images": [
+        "/products/HT-005_1.png",
+        "/products/HT-005_2.png"
+      ],
+      "description": "Clean, understated minimalism featuring traditional button detailing, structured shoulders, and comfortable relaxed pants.",
+      "fabricDetails": "100% Breathable Fine Textured Lawn Crepe.",
+      "careGuide": "Hand wash with mild detergent. Do not bleach.",
+      "variants": [
+        { "size": "S", "inStock": true },
+        { "size": "M", "inStock": true },
+        { "size": "L", "inStock": true },
+        { "size": "XL", "inStock": true }
+      ],
+      "rating": 4.8,
+      "reviewCount": 24,
+      "inStock": true
+    },
+    {
       "id": "top10-1",
       "name": "Essential Pret Kurta Trouser Set",
       "category": "everyday-essentials",
@@ -461,14 +588,14 @@
     }
   ],
   "categoryMap": {
-    "women": ["HT-001", "women-1", "women-2", "women-3", "women-4", "chikankari-1"],
+    "women": ["HT-001", "HT-002", "HT-003", "HT-004", "HT-005", "women-1", "women-2", "women-3", "women-4", "chikankari-1"],
     "men": ["men-1", "men-2", "men-3", "men-4"],
     "scents": ["scents-1", "scents-2", "scents-3", "scents-4"],
-    "chinese-button-sets": ["top10-3"],
-    "the-debut": ["HT-001", "top10-4"],
-    "everyday-essentials": ["HT-001", "top10-1", "top10-2", "top10-3", "women-1"],
+    "chinese-button-sets": ["HT-005", "top10-3"],
+    "the-debut": ["HT-001", "HT-002", "HT-003", "HT-004", "top10-4"],
+    "everyday-essentials": ["HT-001", "HT-002", "HT-003", "HT-004", "HT-005", "top10-1", "top10-2", "top10-3", "women-1"],
     "chikankari": ["chikankari-1"],
-    "top-10": ["HT-001", "top10-1", "top10-2", "top10-3", "top10-4"]
+    "top-10": ["HT-001", "HT-002", "HT-003", "top10-1", "top10-2", "top10-3", "top10-4"]
   },
-  "updatedAt": "2026-11-02T06:00:00.000Z"
+  "updatedAt": "2026-11-03T05:50:00.000Z"
 }
